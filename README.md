@@ -4,11 +4,18 @@ When the application exits, write all Checking and Savings transactions to a tex
 
 #Include the following features:
 
-##View Account Holder Information - such as the account holder's name and account number.##
-#View Checking account balance#
-#View Savings account balance#
-#Deposit funds into Checking#
-#Deposit funds into Savings#
-#Withdraw funds from Checking#
-#Withdraw funds from Savings.#
-#Exit#
+1-View Account Holder Information - such as the account holder's name and account number.
+
+2-View Checking account balance
+
+3-View Savings account balance
+
+4-Deposit funds into Checking
+
+5-Deposit funds into Savings
+
+6-Withdraw funds from Checking
+
+7-Withdraw funds from Savings.
+
+8-Exit
